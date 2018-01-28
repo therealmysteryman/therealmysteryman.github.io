@@ -1,6 +1,6 @@
 ## Automation Geek
 
-I'm a Database Administrator by trade and an Home Automation enthusiasm, I spend spare time coding and integrating different technology. My goal is to automate has much as possible and providing interconnectivity between device.
+I'm a Database Administrator by trade and an Home Automation enthusiasm, I spend spare time coding and integrating different technology. My goal is to automate has much as possible and providing interconnectivity between IoT device.
 
 Here some of my current projet :
 
