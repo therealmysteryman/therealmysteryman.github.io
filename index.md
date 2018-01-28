@@ -7,7 +7,7 @@ Here some of my current projet :
 - **NanoLeaf Aurora** Polyglot V2 Node Server for integraton into ISY994i
 - **Milight** Polyglot V2 Node Server for integraton into ISY994i
 - **Sense Monitor** Polyglot V2 Node Server for integraton into ISY994i
-- **DockerFile**
+- **Docker File**
 
 ### Knowledge
 
@@ -20,3 +20,5 @@ Here some of my current projet :
 
 ### Links
 - [Github](https://github.com/therealmysteryman)
+- [DockerHub](https://hub.docker.com/u/automationgeek/)
+- [LinkedIn](https://www.linkedin.com/in/jean-françois-tremblay-4949182)
