@@ -4,7 +4,7 @@ Home Automation enthusiasm, I spend time coding and integrating different techno
 
 Here some of my current projet
 
-- **NanoLeaf Auror** Polyglot V2 Node Server for integraton into ISY994i
+- **NanoLeaf Aurora** Polyglot V2 Node Server for integraton into ISY994i
 - **Milight** Polyglot V2 Node Server for integraton into ISY994i
 - **Sense Monitor** Polyglot V2 Node Server for integraton into ISY994i
 
