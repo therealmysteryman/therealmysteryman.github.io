@@ -1,6 +1,6 @@
 ## Automation Geek
 
-I'm a Database Administrator by trade and an Home Automation enthusiasm, I spend spare time coding and integrating different technology into a single interface. 
+I'm a Database Administrator by trade and an Home Automation enthusiasm, I spend spare time coding and integrating different technology. My goal is to automate has much as possible and providing interconnectivity between device.
 
 Here some of my current projet :
 
@@ -18,4 +18,5 @@ Here some of my current projet :
 - Tableau,Excel
 - Networking VLAN, PFsense
 
+### Links
 [Github](https://github.com/therealmysteryman)
